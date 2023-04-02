@@ -1,0 +1,25 @@
+A prototype is an early sample, that is built to test a concept or process. It is typically used to validate the product's design and functionality and gather end-user feedback before investing in mass production
+
+النموذج الأولي هو عينة مبكرة ، تم تصميمها لاختبار مفهوم أو عملية. يتم استخدامه عادةً للتحقق من صحة تصميم المنتج ووظائفه وجمع تعليقات المستخدم النهائي قبل الاستثمار في الإنتاج الضخم
+
+
+
+
+Prototypes give you a better idea of the product by providing a visual model of the idealized software. Entrepreneurs, stakeholders and testers use prototype models to understand functionality and features
+
+تمنحك النماذج الأولية فكرة أفضل عن المنتج من خلال توفير نموذج مرئي للبرنامج المثالي. يستخدم رواد الأعمال وأصحاب المصلحة والمختبرين نماذج أولية لفهم الوظائف والميزات
+
+
+
+
+
+The most important advantage of a prototype is that it simulates the real and future :
+
+
+أهم ميزة للنموذج الأولي هي أنه يحاكي المنتج الحقيقي والمستقبلي.
+ يمكن أن يساعد في جذب العملاء للاستثمار في المنتج قبل تخصيص أي موارد مطلوبة للتنفيذ. يمكنك اختبار صحة التصميم قبل أن يدخل حيز الإنتاج ويمكنك اكتشاف أخطاء التصميم
+product.
+ It can help attract customers to invest in the product before allocating any resources needed for implementation. You can test the design's correctness before it comes into production and you can discover design errors
+
+
+

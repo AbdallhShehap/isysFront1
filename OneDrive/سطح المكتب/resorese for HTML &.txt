@@ -1,0 +1,13 @@
+#html and #css useful recourses  ALL THE RESCORSES WILL BE ADD HERE ⏬ 
+
+1. https://developer.mozilla.org/en-US/docs/Web/HTML 
+2. https://www.htmlgoodies.com/
+3. https://htmlcheatsheet.com/
+4. https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet
+5. https://www.w3schools.com/html/default.asp
+6. https://www.codecademy.com/learn/learn-html
+7. https://web.dev/learn/html/
+8. https://www.scaler.com/topics/html/
+9. https://brainstation.io/learn/html
+10.  Crash course : https://www.youtube.com/watch?v=UB1O30fR-EE
+11 .  Freecodecamp : https://www.youtube.com/watch?v=mU6anWqZJcc 

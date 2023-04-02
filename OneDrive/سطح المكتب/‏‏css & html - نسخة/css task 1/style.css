@@ -1,0 +1,66 @@
+body{
+   margin: 0%;
+}
+.tex{
+    background-color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+ .ps{
+    color: pink;
+    text-shadow: 10;
+ }
+
+ .bb{
+    color: yellow;
+    font-style: italic;
+    text-decoration: underline;
+ }
+
+ .ex {
+    color: white;
+    background-color: green;
+
+ }
+ .clas{
+    color: aqua;
+    text-decoration: underline;
+ }
+
+ #idd{
+    color: yellow;
+    background-color: aqua;
+
+ }
+
+ .wo{
+    color: red;
+    background-color: aqua;
+ }
+ .wob{
+    background-color: darkmagenta;
+}
+.one{
+    color: rgb(208, 126, 126);
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.two{
+    color: blue;
+    font-size: 36px;
+}
+.three{
+    font-size: 24px;
+    background-color: pink;
+}
+.four{
+    background-color: lightgreen;
+    font-size: 24px;
+}
+div table{
+    margin: 30px;
+    width: 300px;
+}
+.butt{
+    padding: 15px;
+}

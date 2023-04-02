@@ -1,0 +1,17 @@
+*{
+    background-color: blue;
+}
+.intro img{
+    margin: 30px;
+    border-radius: 250px;
+    float: left;
+}
+.intro p{
+    float: right;
+    margin-right: 100px;
+    font-size: x-large;
+    margin-top: 200px;
+}
+div section{
+    display: inline-block;
+}
