@@ -1,0 +1,51 @@
+.calc{
+
+    background-color: darkblue;
+    height: 450px;
+    width: 60%;
+
+}
+
+.cont{
+    display: grid;
+    /* background-color: aqua; */
+    width: 40%;
+    height: 60%;
+    margin-left:30% ;
+    grid-template-areas: " sc sc sc sc"
+                          " num num num num "
+                          " num num num num "
+                          " num num num num "
+                          " num num num num "
+                          "res res eq eq";
+
+}
+.screen{
+  grid-area: sc;
+  background-color: rgb(29, 45, 61);
+  border-radius: 5%;
+  grid-area: sc;
+  margin-bottom: 10%;
+  height: 75%;
+
+}
+.num{
+    grid-area: num;
+    background-color: brown;
+    grid-area: num;
+    display: grid;
+   display: flex;
+   flex-wrap: wrap;
+
+}
+
+.reset{
+    grid-area: res;
+    /* background-color: cadetblue; */
+    grid-area: res;
+}
+.equl{
+    grid-area: eq;
+    /* background-color: darkgoldenrod; */
+    grid-area: eq;
+}
